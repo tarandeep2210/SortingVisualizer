@@ -1,0 +1,27 @@
+
+.array-bar{
+    display: inline-block;
+    width: 2px;
+    /* height: 300px; */
+    background-color: #FE2EF7;
+    margin: 0 1px;
+}
+
+.array-container{
+    /* display: flex;
+    justify-content: center;
+    align-content: center; */
+    position: absolute;
+    left: 100px;
+    bottom: 100px;
+    
+    /* height: 1000px; */
+
+}
+h2{
+    padding-top:20px ;
+}
+
+body{
+    background-color: #F5F6CE;
+}
